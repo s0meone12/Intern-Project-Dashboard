@@ -1,0 +1,19 @@
+.mainContent {
+  display: flex;
+  justify-content: space-between;
+}
+
+.paypalImg img {
+  width: 5vw;
+  margin-left: 30px;
+  border-radius: 15px;
+}
+
+.boxmain {
+  border-radius: 5px;
+  box-shadow: 1px 0px 4px grey;
+  background-color: rgb(217, 230, 235);
+  width: 15%;
+  margin-top: 20px;
+
+}

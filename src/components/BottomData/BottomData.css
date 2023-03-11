@@ -1,0 +1,16 @@
+.bottomBox-container {
+  box-shadow: 1px 0px 4px grey;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  column-gap: 50px;
+  border-radius: 20px;
+  margin-right: 18vw;
+ padding-left: 20px;
+  padding-right: 20px;
+
+}
+
+.bottomBox-container1 {
+  padding-left: 30px;
+}
